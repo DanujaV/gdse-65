@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/collectionapi-03/list/arraylist/arraylist.iml" filepath="$PROJECT_DIR$/collectionapi-03/list/arraylist/arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics-02/boundedtypegenerics/boundedtypegenerics.iml" filepath="$PROJECT_DIR$/generics-02/boundedtypegenerics/boundedtypegenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionapi-03/collectionapi-03.iml" filepath="$PROJECT_DIR$/collectionapi-03/collectionapi-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics-02/generics-02.iml" filepath="$PROJECT_DIR$/generics-02/generics-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionapi-03/set/hashset/hashset.iml" filepath="$PROJECT_DIR$/collectionapi-03/set/hashset/hashset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-exception/java-exception.iml" filepath="$PROJECT_DIR$/java-exception/java-exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionapi-03/set/linkedhashset/linkedhashset.iml" filepath="$PROJECT_DIR$/collectionapi-03/set/linkedhashset/linkedhashset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionapi-03/list/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/collectionapi-03/list/linkedlist/linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionapi-03/list/list.iml" filepath="$PROJECT_DIR$/collectionapi-03/list/list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionapi-03/set/set.iml" filepath="$PROJECT_DIR$/collectionapi-03/set/set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collectionapi-03/set/treeset/treeset.iml" filepath="$PROJECT_DIR$/collectionapi-03/set/treeset/treeset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics-02/withgenerics/withgenerics.iml" filepath="$PROJECT_DIR$/generics-02/withgenerics/withgenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics-02/withoutgenerics/withoutgenerics.iml" filepath="$PROJECT_DIR$/generics-02/withoutgenerics/withoutgenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrapperclass-01/wrapperclass-01.iml" filepath="$PROJECT_DIR$/wrapperclass-01/wrapperclass-01.iml" />
+    </modules>
+  </component>
+</project>
