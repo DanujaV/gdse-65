@@ -3,7 +3,7 @@
     @created 2/17/23 - 2:58 PM   
 */
 
-public class ErrorDemo {
+public class StackOverFlowErrorDemo {
     private static void methodA() {
         System.out.println("methodA()");
         methodB();
