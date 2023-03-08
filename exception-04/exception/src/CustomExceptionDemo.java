@@ -8,14 +8,18 @@ import java.util.List;
 
 public class CustomExceptionDemo {
     static List<Integer> list = new ArrayList<>();
-    private static void insertInteger(int integer) {
+    private static void insertInteger(int integer) throws CustomException{
         if(list.contains(integer)) {
-//            throw new CustomException("oops! number already added! :()");
+            throw new CustomException("oops! number already added! :()");
         }
         list.add(integer);
     }
 
     public static void main(String[] args) {
-        insertInteger(10);
+        try {
+            insertInteger(10);
+        } catch (CustomException e) {
+            throw new RuntimeException(e);
+        }
     }
 }
