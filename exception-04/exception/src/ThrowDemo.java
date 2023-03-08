@@ -17,6 +17,11 @@ public class ThrowDemo {
         System.out.print("Input age: ");
         int age = new Scanner(System.in).nextInt();
 
-        isEligibleForTheVote(age);
+        try {
+            isEligibleForTheVote(age);
+        } catch(IllegalArgumentException e) {
+            System.out.println("hureee! i catch the exception! :)");
+            System.out.println(e);
+        }
     }
 }
